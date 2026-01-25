@@ -1,5 +1,5 @@
 # St Andrew's Information Request
-Each folder contains program files, each with their own readmes, provide the following information:
+Each folder contains program files, each with their own readmes, providing the following information:  
 Programming language(s) used  
 Purpose of code (main functionality)  
 Scale of project (number of classes / functions / lines of code)  
